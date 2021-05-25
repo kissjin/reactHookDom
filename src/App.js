@@ -8,6 +8,7 @@ import { Example5 } from "./example5";
 // import  Example5  from "./example5";
 import Example6 from "./example6";
 import { Example7 } from "./example7";
+import Example8 from "./example8";
 
 
 
@@ -27,6 +28,7 @@ function App () {
         <Example5></Example5>
         <Example6 isLoggedIn={false}></Example6>
         <Example7></Example7>
+        <Example8></Example8>
         {/* <ActionLink></ActionLink> */}
       </header>
     </div>
